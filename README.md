@@ -16,14 +16,13 @@ The following information is available:
 
 ### Coordinate System
 
-* Coordinate Reference System (CRS)
-* EPSG code and related information
+* Coordinate Reference System (CRS)[EPSG code and related information]
 
 ### Spatial Extent
 
-* X coordinates (minimum and maximum values)
-* Y coordinates (minimum and maximum values)
-* Z coordinates (minimum and maximum values)
+* X coordinates (min and max values)
+* Y coordinates (min and max values)
+* Z coordinates (min and max values)
 
 ### Point Statistics
 
@@ -35,7 +34,7 @@ The following information is available:
 
 ### Return Information
 
-* Return number (minimum and maximum values)
+* Return number (min and max values)
 * First returns
 * Last returns
 * Intermediate returns
@@ -61,6 +60,6 @@ The following information is available:
 
 ### NIR Information
 
-* Near-Infrared (NIR)
+* Near-Infrared [NIR]
 
 Las Info provides a simple and user-friendly way to inspect LiDAR datasets and quickly obtain essential information about their structure, classification, and spatial properties.
