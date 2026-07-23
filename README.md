@@ -1,4 +1,4 @@
-# LAS-INFO-
+# LAS-INFO-v.1.0
 This program is used for viewing LiDAR data information
 
 ## Las Info
